@@ -23,7 +23,7 @@
     <div class="text-right my-2 mr-4">
       <a
         class="font-medium underline hover:text-blue-500"
-        href="https://codesandbox.io/s/101-simple-phone-number-input-uwlwd?file=/src/App.vue"
+        href="https://codesandbox.io/s/simple-phone-number-input-uwlwd"
         target="_blank"
       >
         Demo Code
