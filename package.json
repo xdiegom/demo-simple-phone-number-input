@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "simple-phone-number-input": "^1.0.1",
+    "tailwindcss": "^1.4.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
