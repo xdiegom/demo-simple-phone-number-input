@@ -1,7 +1,10 @@
 <template>
   <div id="app" class="p-2 bg-gray-200 min-h-screen px-8">
     <div class="flex justify-between w-full items-baseline">
-      <h1 class="font-bold text-3xl mt-2">Simple Phone Number Input</h1>
+      <h1 class="font-bold text-3xl mt-2">
+        Simple Phone Number Input
+        <span class="font-normal text-sm">v1.0.1</span>
+      </h1>
       <div class="flex mr-4 space-x-2">
         <a
           href="https://github.com/xdiegom/simple-phone-number-input"
